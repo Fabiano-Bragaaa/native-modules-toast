@@ -2860,7 +2860,7 @@ SPEC CHECKSUMS:
   React-utils: 3f88690369f7f22459b97e86e06bdcfe709a096d
   React-webperformancenativemodule: 909bc3882cb4572dc1b786494147fdefcb77d8c6
   ReactAppDependencyProvider: d69159b417e8c9d82b8fe4d0a27def4c3e8f767f
-  ReactCodegen: 7456de84eece108533dd15d52a6fc123802cf2ce
+  ReactCodegen: 2f995e0442fa156b2055a9abae3998ee2fa072d6
   ReactCommon: b3a9c15f0c2f4849cac0cf01e626cfa7f1a2e887
   SocketRocket: d4aabe649be1e368d1318fdf28a022d714d65748
   Yoga: 3d56e80930898685da43cbf53b5843932df8e765
