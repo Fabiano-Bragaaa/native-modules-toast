@@ -15,6 +15,13 @@
     "jsSrcsDir": "specs",
     "android": {
       "javaPackageName": "com.toastnativemodules"
+    },
+    "ios": {
+      "modules": {
+        "NativeToast": {
+          "className": "RCTNativeToast"
+        }
+      }
     }
   },
   "dependencies": {
